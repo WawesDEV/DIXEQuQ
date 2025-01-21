@@ -1,15 +1,11 @@
--- https://github.com/LorekeeperZinnia/Dex
+-- WAwesDEVV
 
 --[[
-	New Dex
-	Final Version
-	Developed by Moon
-	Modified for Infinite Yield
-	
-	Dex is a debugging suite designed to help the user debug games and find any potential vulnerabilities.
+	New Dixquq
+
 ]]
 
-local nodes = {}
+local nodes = {}																																											
 local selection
 local cloneref = cloneref or function(...) return ... end
 
