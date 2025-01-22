@@ -12,9 +12,7 @@ local cloneref = cloneref or function(...) return ... end
 local EmbeddedModules = {
 Explorer = function()
 --[[
-	Explorer App Module
-	
-	The main explorer interface
+	de
 ]]
 
 -- Common Locals
